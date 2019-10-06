@@ -1,7 +1,7 @@
-package io.jfrflabs.bmizeUsers.service;
+package io.jfrflabs.bmizeAthletes.service;
 
-import io.jfrflabs.bmizeUsers.dao.AthleteDao;
-import io.jfrflabs.bmizeUsers.model.Athlete;
+import io.jfrflabs.bmizeAthletes.dao.AthleteDao;
+import io.jfrflabs.bmizeAthletes.model.Athlete;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 

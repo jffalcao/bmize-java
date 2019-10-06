@@ -1,6 +1,6 @@
-package io.jfrflabs.bmizeUsers.dao;
+package io.jfrflabs.bmizeAthletes.dao;
 
-import io.jfrflabs.bmizeUsers.model.Athlete;
+import io.jfrflabs.bmizeAthletes.model.Athlete;
 
 import java.util.List;
 import java.util.UUID;

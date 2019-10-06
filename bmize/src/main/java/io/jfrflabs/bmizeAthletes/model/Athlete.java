@@ -1,4 +1,4 @@
-package io.jfrflabs.bmizeUsers.model;
+package io.jfrflabs.bmizeAthletes.model;
 
 import java.util.UUID;
 
